@@ -1,16 +1,23 @@
+body {
+  color:#F0F3F4;
+}
 .about-me {
   border: 3px solid black;
   width: 40%;
   padding: 10px;
   margin: 20px; 
   text-align: justify;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:black;
+  background-color: #85929E;
 
 }
 .about-me a {
-  color:black;
   text-decoration:none;
+  color:black;
 }
 h1 {
   text-align: center;
   font-family:Georgia, 'Times New Roman', Times, serif;
+  color:black;
 }
