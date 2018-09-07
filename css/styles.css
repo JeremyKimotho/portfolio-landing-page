@@ -10,7 +10,6 @@ body {
   font-family:Georgia, 'Times New Roman', Times, serif;
   color:black;
   background-color: #85929E;
-
 }
 .about-me a {
   text-decoration:none;
@@ -45,4 +44,6 @@ img {
   transform:rotate(90deg);
   border: 3px solid black;
   margin-top:60px;
+  float:right;
+  margin-right: 100px
 }
