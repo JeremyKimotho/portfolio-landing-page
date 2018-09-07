@@ -25,4 +25,13 @@ h1 {
   color:black;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif;
   font-size: 16px;
+  text-decoration:none;
+}
+.repos a {
+  color:black;
+  font-size: 16px;
+  text-decoration:none;
+}
+a:hover {
+  color:red
 }
