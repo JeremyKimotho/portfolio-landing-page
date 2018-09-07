@@ -1,0 +1,10 @@
+.about-me {
+  border: 3px solid black;
+  width: 40%;
+  padding: 10px;
+  margin: 20px; 
+
+}
+.about-me a {
+  color:black;
+}
