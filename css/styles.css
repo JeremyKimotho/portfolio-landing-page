@@ -1,5 +1,5 @@
 body {
-  background-color:#FEF5E7;
+  background-color:#EBEDEF;
 }
 .about-me {
   border: 3px solid black;
@@ -38,12 +38,12 @@ a:hover {
   color:red
 }
 img {
-  width: 30%;
-  height: 30%;
+  width:32%;
+  height:32%;
   float:right;
   transform:rotate(90deg);
   border: 3px solid black;
-  margin-top:60px;
+  margin-top:54px;
   float:right;
   margin-right: 100px
 }
